@@ -8,6 +8,35 @@ function setup() {
 // Draw function runs repeatedly in a loop 
 function draw() {
   background(200);
-  ellipse(200,200,50)
-  
+
+	// Code Along
+	
+
+
+
+	// Practice 1
+	
+	
+
+
+	// Practice 2
+	
+	
+
+
+	// Practice 3
+
+	
+
+	// Practice 4
+
+	
+
+
+	// Robot Drawing
+
+	
+
+
+
 }
